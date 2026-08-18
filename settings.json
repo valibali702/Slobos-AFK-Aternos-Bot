@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": " lausbuam-NyqH.aternos.me",
+    "ip": "lausbuam-NyqH.aternos.me:48013",
     "port": 48013,
     "version": "",
     "try-creative": false
